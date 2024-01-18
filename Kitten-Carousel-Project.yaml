@@ -8,7 +8,7 @@ Resources:
     Properties:
       ImageId: ami-01c647eace872fc02
       InstanceType: t2.micro
-      KeyName: firstkey 
+      KeyName: ***** 
       SecurityGroups:
         - !Ref MerveInstanceSG
       Tags:
